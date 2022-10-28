@@ -1,0 +1,5 @@
+新增的第二個檔案
+檔案的旁邊 
+U 的話代表是新增的 (untracked)
+M 的話代表是修改的 (modefied)
+A 的話代表是暫存變更就是真的要commit上去的資料(added)
